@@ -1,0 +1,32 @@
+nav, ul li a {
+    color:white;
+    
+}
+
+h3 {
+    color:white;
+}
+
+h4 {
+    color:greenyellow;
+}
+
+h1, h2{
+    color:lime;
+}
+
+p {
+    color:yellow;
+}
+
+body{
+    background-image: url(image/batu.jpg);
+    min-width: 250px;
+    height: auto;
+    background-position: 20%;
+    background-size: contain;
+    
+}
+h5 ul li{
+    color: aqua;
+}
